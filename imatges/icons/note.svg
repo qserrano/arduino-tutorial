@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg5518"
+   sodipodi:docname="info-icon.svg"
+   inkscape:export-filename="C:\Documents and Settings\Venkat D\Desktop\info.png"
+   viewBox="0 0 80 80"
+   sodipodi:version="0.32"
+   inkscape:export-xdpi="95.279228"
+   version="1.1"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-ydpi="95.279228"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   width="80"
+   height="80"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title3707">netalloy info icon</title>
+  <defs
+     id="defs5520">
+    <filter
+       id="filter4471"
+       height="1.4009555"
+       width="1.3492193"
+       y="-0.20047775"
+       x="-0.17460966"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur4473"
+         stdDeviation="5.4252821"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       id="filter4475"
+       inkscape:collect="always"
+       x="-0.1095896"
+       y="-0.073596955"
+       width="1.2191792"
+       height="1.1474123">
+      <feGaussianBlur
+         id="feGaussianBlur4477"
+         stdDeviation="5.4252821"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       id="filter4140"
+       inkscape:collect="always"
+       x="-0.084467004"
+       y="-0.088983953"
+       width="1.168934"
+       height="1.1779679">
+      <feGaussianBlur
+         id="feGaussianBlur4142"
+         stdDeviation="19.809523"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       id="filter4224"
+       height="1.3619048"
+       width="1.2111111"
+       y="-0.18095238"
+       x="-0.10555555"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur4226"
+         stdDeviation="1.1515151"
+         inkscape:collect="always" />
+    </filter>
+    <linearGradient
+       id="linearGradient3676"
+       y2="17.818001"
+       gradientUnits="userSpaceOnUse"
+       x2="75.273003"
+       gradientTransform="matrix(0.89441,0,0,1,7.0536,1.474e-8)"
+       y1="5.4545002"
+       x1="76.908997"
+       inkscape:collect="always">
+      <stop
+         id="stop4194"
+         style="stop-color:#d5e5ff"
+         offset="0" />
+      <stop
+         id="stop4196"
+         style="stop-color:#d5e5ff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="0"
+     pagecolor="#ffffff"
+     inkscape:window-height="704"
+     inkscape:grid-bbox="true"
+     inkscape:window-maximized="1"
+     inkscape:zoom="1"
+     inkscape:window-x="0"
+     showgrid="true"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="5"
+     inkscape:cy="32.5"
+     inkscape:window-width="1366"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       id="g3696"
+       transform="scale(1.25)">
+      <g
+         id="g3686">
+        <rect
+           id="rect2171"
+           style="opacity:0;stroke-width:0"
+           inkscape:export-ydpi="67.5"
+           inkscape:export-filename="C:\Documents and Settings\Venkat D\Desktop\stories\info.png"
+           height="64"
+           width="64"
+           inkscape:export-xdpi="67.5"
+           y="0"
+           x="0" />
+        <ellipse
+           id="path4431"
+           style="fill:#3771c8;stroke:#204a87;stroke-width:10.631;stroke-linejoin:round"
+           inkscape:export-ydpi="67.5"
+           inkscape:export-filename="C:\Documents and Settings\Venkat D\Desktop\stories\info.png"
+           transform="matrix(0.094064,0,0,0.094064,14.049,-10.875)"
+           inkscape:export-xdpi="67.5"
+           cx="198.57143"
+           cy="448.07648"
+           rx="281.42856"
+           ry="267.14285" />
+        <ellipse
+           id="path4114"
+           style="fill:#3465a4;stroke-width:0;filter:url(#filter4140)"
+           inkscape:export-ydpi="67.5"
+           inkscape:export-filename="C:\Documents and Settings\Venkat D\Desktop\stories\info.png"
+           transform="matrix(0.086958,0,0,0.086958,15.46,-7.6909)"
+           inkscape:export-xdpi="67.5"
+           cx="198.57143"
+           cy="448.07648"
+           rx="281.42856"
+           ry="267.14285" />
+        <ellipse
+           id="path3450"
+           style="fill:#333333;stroke:#484ba6;stroke-width:4.8895;stroke-linejoin:round;filter:url(#filter4471)"
+           inkscape:export-ydpi="67.5"
+           inkscape:export-filename="C:\Documents and Settings\Venkat D\Desktop\stories\info.png"
+           transform="matrix(0.094064,0,0,0.094064,1.8109,-10.913)"
+           inkscape:export-xdpi="67.5"
+           cx="324.28571"
+           cy="308.07648"
+           rx="44.285713"
+           ry="38.57143" />
+        <path
+           id="path3452"
+           style="fill:#333333;fill-rule:evenodd;stroke:#3b3f82;stroke-width:6.5221;filter:url(#filter4475)"
+           d="m -575.84,339.59 0.71428,41.429 31.429,10e-6 v 120 l -45.714,1.4286 10e-6,58.571 148.57,-2.8571 v -60 l -35.714,0.71429 1.4286,-157.86 -100.71,-1.4286 z"
+           inkscape:export-ydpi="67.5"
+           sodipodi:nodetypes="ccccccccccc"
+           inkscape:export-filename="C:\Documents and Settings\Venkat D\Desktop\stories\info.png"
+           transform="matrix(0.094064,0,0,0.094064,80.969,-7.3814)"
+           inkscape:export-xdpi="67.5" />
+        <path
+           id="path4437"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#3b3f82;stroke-width:0.038296"
+           d="m 25.853,25.512 0.06719,3.897 h 2.9563 v 11.288 l -4.3001,0.13438 v 5.5095 l 13.975,-0.26875 v -5.6439 l -3.3594,0.06718 0.13438,-14.849 -9.4736,-0.13438 z"
+           inkscape:export-ydpi="67.5"
+           sodipodi:nodetypes="ccccccccccc"
+           inkscape:export-filename="C:\Documents and Settings\Venkat D\Desktop\stories\info.png"
+           inkscape:export-xdpi="67.5" />
+        <ellipse
+           id="path4154"
+           style="fill:url(#linearGradient3676);stroke-width:0;filter:url(#filter4224)"
+           transform="matrix(1.1181,0,0,1,-50.068,6.1818)"
+           cx="75.272728"
+           cy="10.181818"
+           rx="13.090909"
+           ry="7.6363635" />
+        <ellipse
+           id="path4435"
+           style="fill:#ffffff;stroke:#484ba6;stroke-width:0.41119;stroke-linejoin:round"
+           inkscape:export-ydpi="67.5"
+           inkscape:export-filename="C:\Documents and Settings\Venkat D\Desktop\stories\info.png"
+           transform="matrix(0.094064,0,0,0.094064,0.86071,-9.9632)"
+           inkscape:export-xdpi="67.5"
+           cx="324.28571"
+           cy="308.07648"
+           rx="44.285713"
+           ry="38.57143" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata316">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>netalloy info icon</dc:title>
+        <dc:date>2010-04-04T21:24:15</dc:date>
+        <dc:description>icon info</dc:description>
+        <dc:source>https://openclipart.org/detail/37255/netalloy-info-by-netalloy</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>netalloy</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>data</rdf:li>
+            <rdf:li>info</rdf:li>
+            <rdf:li>information</rdf:li>
+            <rdf:li>tips</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

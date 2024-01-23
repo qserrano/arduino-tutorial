@@ -1,0 +1,30 @@
+/*
+ * CARTROTECH  (www.cartrotech.wordpress.com)
+ * 
+ * Projecte nº: ARD036
+ * Data: 07/02/2022
+ * Descripcio: Prova del sensor detector d'aigua
+ * Nota:
+ * 
+ */
+
+int adc_id = 0;
+int HistoryValue = 0;
+char printBuffer[128];
+
+void setup()
+{
+  Serial.begin(9600);
+}
+
+void loop()
+{
+    int value = analogRead(adc_id); 
+
+    if(((HistoryValue>=value) && ((HistoryValue - value) > 10)) || ((HistoryValue<value) && ((value - HistoryValue) > 10)))
+    {
+      sprintf(printBuffer,"ADC%d level is %d\n",adc_id, value);
+      Serial.print(printBuffer);
+      HistoryValue = value;
+    }
+}
