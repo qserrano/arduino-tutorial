@@ -172,7 +172,7 @@ tot, és una aproximació), però és bastant precís.
 
 L'equació de Steinhart-Hart es veu així:
 
-$${\frac{1}{T} = {A + {B \cdot \ln}}}{{(R)} + {C \cdot {({\ln{(R)}})}^{3}}}$$
+$${\frac{1}{T} = {A + {B \cdot \ln}}{(R)} + {C \cdot {({\ln{(R)}})}^{3}}}$$
 
 Aquesta és una equació bastant complexa que requereix diversos
 paràmetres (A, B, C) que normalment no tenim per al funcionament del
